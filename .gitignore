@@ -1,0 +1,29 @@
+# Build Results
+bin/
+obj/
+
+# Rider project files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# dotnet publish folder (optional, if you don’t want to include it)
+publish/
+
+# Optional: if using secrets or temp files
+*.env
+*.tmp
+*.bak
