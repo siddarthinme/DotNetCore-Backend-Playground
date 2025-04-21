@@ -27,3 +27,6 @@ publish/
 *.env
 *.tmp
 *.bak
+
+# Ignore the folder named 'Extensions'
+Extensions/
