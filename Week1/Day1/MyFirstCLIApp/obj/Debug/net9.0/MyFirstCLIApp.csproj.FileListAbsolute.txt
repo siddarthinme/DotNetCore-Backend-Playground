@@ -1,0 +1,14 @@
+F:\Learning\Day1\MyFirstCLIApp\bin\Debug\net9.0\MyFirstCLIApp.exe
+F:\Learning\Day1\MyFirstCLIApp\bin\Debug\net9.0\MyFirstCLIApp.deps.json
+F:\Learning\Day1\MyFirstCLIApp\bin\Debug\net9.0\MyFirstCLIApp.runtimeconfig.json
+F:\Learning\Day1\MyFirstCLIApp\bin\Debug\net9.0\MyFirstCLIApp.dll
+F:\Learning\Day1\MyFirstCLIApp\bin\Debug\net9.0\MyFirstCLIApp.pdb
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\MyFirstCLIApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\MyFirstCLIApp.AssemblyInfoInputs.cache
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\MyFirstCLIApp.AssemblyInfo.cs
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\MyFirstCLIApp.csproj.CoreCompileInputs.cache
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\MyFirstCLIApp.dll
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\refint\MyFirstCLIApp.dll
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\MyFirstCLIApp.pdb
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\MyFirstCLIApp.genruntimeconfig.cache
+F:\Learning\Day1\MyFirstCLIApp\obj\Debug\net9.0\ref\MyFirstCLIApp.dll
