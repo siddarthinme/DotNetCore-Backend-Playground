@@ -1,0 +1,6 @@
+@MinimalHostDemo_HostAddress = http://localhost:5195
+
+GET {{MinimalHostDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
