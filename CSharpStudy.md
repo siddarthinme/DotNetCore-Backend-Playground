@@ -103,7 +103,3 @@ Here's a structured study plan based on the content from the **C# 12 - Ultimate 
 - Inline Arrays
 - Ref Fields in Structs
 - Required Members
-
----
-
-Would you like me to turn this into a printable planner, or maybe break it into a daily/weekly schedule?
