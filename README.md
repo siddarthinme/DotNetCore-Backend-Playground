@@ -154,6 +154,3 @@
 | Final Project | ✔️ / ⬜️ |
 | Mock Interviews | ✔️ / ⬜️ |
 
----
-
-Would you like this in a **Notion tracker**, **Excel sheet**, **printable PDF**, or even a **Google Calendar version** with daily reminders? I can generate it for you!
