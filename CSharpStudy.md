@@ -1,7 +1,3 @@
-Here's a structured study plan based on the content from the **C# 12 - Ultimate Guide - Beginner to Advanced** PDF. I’ve preserved the original structure and ensured that no topics are missed. You can follow this as a weekly or daily plan depending on your pace.
-
----
-
 ### **📘 Study Plan for C# 12 - Ultimate Guide**
 
 #### **1. Introduction**
