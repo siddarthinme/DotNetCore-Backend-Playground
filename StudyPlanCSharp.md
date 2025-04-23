@@ -1,7 +1,3 @@
-Great! Since you're at an intermediate level, we'll breeze through the basics and focus more on core and advanced concepts. Here's a **1-month (30-day) C# 12 study plan**, optimized for deeper learning and daily progress, while dedicating the first **2 days to core basics**. Each day is structured to keep things manageable but meaningful.
-
----
-
 ### **📅 1-Month C# 12 Study Plan (Intermediate Level)**
 
 #### 🧠 **Week 1: Foundations & Core Concepts**
@@ -117,7 +113,3 @@ Great! Since you're at an intermediate level, we'll breeze through the basics an
 
 - **Day 30**  
   - Final Project Build Day: Showcase your understanding 🎉  
-
----
-
-Would you like me to turn this into a **printable PDF planner** or a **Notion-compatible template**?
